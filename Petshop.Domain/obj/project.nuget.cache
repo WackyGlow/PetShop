@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GTOHKQUp8lqHphDqjpCuprQbA7SvUx5gKkXt6RO/W4IZQ4WStnLmXq5V1gbaoqu1xFmQgkp0PvCFqtIYm5uesA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rasmu\\RiderProjects\\PetShop\\Petshop.Domain\\Petshop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0-preview.7.21377.19\\microsoft.extensions.dependencyinjection.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.7.21377.19\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.7.21377.19.nupkg.sha512",
+    "C:\\Users\\rasmu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.7.21377.19\\system.runtime.compilerservices.unsafe.6.0.0-preview.7.21377.19.nupkg.sha512"
+  ],
+  "logs": []
+}

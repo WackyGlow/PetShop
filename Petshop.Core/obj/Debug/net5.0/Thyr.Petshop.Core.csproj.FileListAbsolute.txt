@@ -1,0 +1,5 @@
+C:\Users\rasmu\RiderProjects\PetShop\Thyr.Petshop.Core\obj\Debug\net5.0\Thyr.Petshop.Core.csproj.AssemblyReference.cache
+C:\Users\rasmu\RiderProjects\PetShop\Thyr.Petshop.Core\obj\Debug\net5.0\Thyr.Petshop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\RiderProjects\PetShop\Thyr.Petshop.Core\obj\Debug\net5.0\Thyr.Petshop.Core.AssemblyInfoInputs.cache
+C:\Users\rasmu\RiderProjects\PetShop\Thyr.Petshop.Core\obj\Debug\net5.0\Thyr.Petshop.Core.AssemblyInfo.cs
+C:\Users\rasmu\RiderProjects\PetShop\Thyr.Petshop.Core\obj\Debug\net5.0\Thyr.Petshop.Core.csproj.CoreCompileInputs.cache

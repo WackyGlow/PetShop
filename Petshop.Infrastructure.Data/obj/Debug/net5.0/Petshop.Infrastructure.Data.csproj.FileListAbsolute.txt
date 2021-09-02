@@ -1,0 +1,17 @@
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\bin\Debug\net5.0\Petshop.Infrastructure.Data.deps.json
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\bin\Debug\net5.0\Petshop.Infrastructure.Data.dll
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\bin\Debug\net5.0\ref\Petshop.Infrastructure.Data.dll
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\bin\Debug\net5.0\Petshop.Infrastructure.Data.pdb
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\bin\Debug\net5.0\Petshop.Core.dll
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\bin\Debug\net5.0\Petshop.Domain.dll
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\bin\Debug\net5.0\Petshop.Domain.pdb
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\bin\Debug\net5.0\Petshop.Core.pdb
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\obj\Debug\net5.0\Petshop.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\obj\Debug\net5.0\Petshop.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\obj\Debug\net5.0\Petshop.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\obj\Debug\net5.0\Petshop.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\obj\Debug\net5.0\Petshop.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\obj\Debug\net5.0\Petshop.Infrastructure.Data.csproj.CopyComplete
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\obj\Debug\net5.0\Petshop.Infrastructure.Data.dll
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\obj\Debug\net5.0\ref\Petshop.Infrastructure.Data.dll
+C:\Users\rasmu\RiderProjects\PetShop\Petshop.Infrastructure.Data\obj\Debug\net5.0\Petshop.Infrastructure.Data.pdb
